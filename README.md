@@ -1,9 +1,17 @@
-#MMBBSapp
+# MMBBSapp
 
+<p align="left">
 <a href="https://play.google.com/store/apps/details?id=de.mmbbs">
- <img alt="Get it on Google Play"
-     src="https://cloud.githubusercontent.com/assets/12447257/8147861/0b474efe-1280-11e5-9f09-d6fb1ebaf954.png" />
-     </a>
+    <img alt="Get it on Google Play"
+        height="80"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>  
+<a href="https://f-droid.org/app/de.mmbbs">
+    <img alt="Get it on F-Droid"
+        height="80"
+        src="https://f-droid.org/badge/get-it-on.png" />
+        </a>
+        </p>
      
 Die App für Schülerinnen und Schüler der Multi-Media Berufsbildende Schulen <a href="http://www.mmbbs.de/">(MM-BbS)</a> in Hannover.
 
